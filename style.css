@@ -1,0 +1,21 @@
+body{
+color:rgb(0, 0, 0);
+background-color: brown;
+}
+
+header{
+   border: solid 2px black;
+   padding: 20px;
+   font-size: 40px
+}
+
+section {
+
+    background: rgb(184,156,213);
+    
+    padding-bottom: 80px;
+    
+    padding-top: 80px;
+    
+    display: flex;
+    justify-content: center;
